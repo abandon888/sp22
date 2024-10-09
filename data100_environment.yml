@@ -1,0 +1,43 @@
+name: data100
+channels:
+  - http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - defaults
+
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - scipy
+  - jupyter
+  - jupyterlab
+  - ipywidgets
+  - requests
+  - tensorflow
+  - pip
+  - pyopenssl
+  - python
+  - jupyterhub
+  - ipykernel
+  - pillow
+  - statsmodels
+  - dask
+  - distributed
+  - flask
+  - sqlalchemy
+  - plotly
+  - scikit-image
+  - beautifulsoup4
+  - pytest
+  - jinja2
+  - tornado
+  - cryptography
+  - sqlite
+  - openssl
+  # - libxcb
+  - pip:
+      - jupyterhub
+      - jupyter-contrib-nbextensions
+      - redis
