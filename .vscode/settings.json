@@ -1,0 +1,9 @@
+{
+  "files.autoSaveWhenNoErrors": true,
+  "python.analysis.exclude": [
+    "**/hw/*,**/disc/*,**/lec/*,**/proj/*"
+  ],
+  "commentTranslate.maxTranslationLength": 1024,
+  "github.copilot.chat.localeOverride": "zh-CN",
+  "commentTranslate.source": "Copilot"
+}
